@@ -44,7 +44,7 @@
 </p>
 
 <h5 align="center">🖊 to study soon</h5>
-<p align="center" style="font-size:60%">node.js project, JPA project, MSA, SQLP certificate ...
+<p align="center">node.js project, JPA project, MSA, SQLP certificate ...
 </p>
 
 <hr>
@@ -62,7 +62,7 @@
       width="300" height="200"/>
 </p>
 <h5 align="center">project 'ICE'</h5>
-<p>
+<p align="center">
     <img src="https://github.com/forchcollect/musicStreaming/assets/59334620/e133798a-f7f1-4f01-b962-a1c64e516ce2"
       width="300" height="200"/>
     <img src="https://github.com/forchcollect/musicStreaming/assets/59334620/76a91a31-503a-4acf-b47d-f7145d939bc8"
