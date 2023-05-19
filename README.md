@@ -43,10 +43,6 @@ node.js, JPA, 디자인 패턴 등을 공부하고 있습니다.<br>
     <img src="https://img.shields.io/badge/Design%20Pattern-violet?style=flat-square&logoColor=white"/>
 </p>
 
-<h5 align="center">🖊 to study soon</h5>
-<p align="center">node.js project, JPA project, MSA, SQLP certificate ...
-</p>
-
 <hr>
 <h3 align="center">⏰ timeline ⏰ </h3>
 <h5 align="center">📹  2020.03 ~ 2020.08 국비학원 프로젝트</h5>
