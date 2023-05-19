@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/badge/JSP-F37626?style=flat-square&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
+    <br>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logoColor=white"/>
@@ -45,3 +46,36 @@
 <h5 align="center">🖊 to study soon</h5>
 <p align="center" style="font-size:60%">node.js project, JPA project, MSA, SQLP certificate ...
 </p>
+
+<hr>
+<h3 align="center">timeline</h3>
+<h5 align="center">📹  2020.03 ~ 2020.08 국비학원 프로젝트</h5>
+<img src="https://github.com/forchcollect/musicStreaming/assets/59334620/1b57eb78-461e-4881-9f90-1be6a4410b14"
+    width="300" height="200"/>
+<img src="https://github.com/forchcollect/musicStreaming/assets/59334620/3f5c03e3-46ce-46fb-ad9e-4741e51414d0"
+    width="300" height="200"/>
+<img src="https://github.com/forchcollect/musicStreaming/assets/59334620/7edfa9c4-2d2a-4c23-8258-e6de6a784b49"
+    width="300" height="200"/>
+<img src="https://github.com/forchcollect/musicStreaming/assets/59334620/e1055982-93ad-4dad-87e7-722c52684ac2"
+    width="300" height="200"/>
+<br>
+<img src="https://github.com/forchcollect/musicStreaming/assets/59334620/e133798a-f7f1-4f01-b962-a1c64e516ce2"
+    width="300" height="200"/>
+<img src="https://github.com/forchcollect/musicStreaming/assets/59334620/76a91a31-503a-4acf-b47d-f7145d939bc8"
+    width="300" height="200"/>
+<img src="https://github.com/forchcollect/musicStreaming/assets/59334620/4643b104-3910-4c32-9ad9-6af58d2d62df"
+    width="300" height="200"/>
+<img src="https://github.com/forchcollect/musicStreaming/assets/59334620/38235713-66b1-4b77-ba65-cd6ff0ff9480"
+    width="300" height="200"/>
+
+<br>
+<h5 align="center">💼 2020.09 ~ 2022.12 첫 회사</h5>
+<br>
+<h5 align="center">💪 2023.01 ~ now 공백기</h5>
+<p align="center">
+    퇴사 후 재충전 시간을 가졌다.<br>
+    그동안 새로운 기술을 학습하거나 사이드 프로젝트 만드는 것 없이 나태했던 스스로를 반성하며...<br>
+    현재 공부와 함께 구직활동을 하고 있다.
+</p>
+
+<h3 align="center">📹  other project soon...</h3>
