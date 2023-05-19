@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=633122&height=140&text=forchcollect&fontSize=50&fontAlign=28&fontColor=FFFFFF&desc=개발은%20초콜릿처럼%20달달하게&descAlign=61&descAlignY=53)
 
-<p align="center" style="font-size:60%">
-🙋‍♀️ 3년 차 자바 풀스택 개발자 입니다.<br>
-백엔드 및 DB sql에 관심이 많습니다! <br>
-현재 node.js, JPA, 디자인 패턴 등을 공부하고 있습니다.<br>
+<p align="center">
+<span style="font-size:60%">🙋‍♀️ 3년 차 자바 풀스택 개발자 입니다. </span><br>
+<span style="font-size:60%">백엔드 및 DB sql에 관심이 많습니다! </span><br>
+<span style="font-size:60%">현재 node.js, JPA, 디자인 패턴 등을 공부하고 있습니다. </span><br>
 <br>
-📧email : forchcollect@naver.com <br>
-💻blog : https://blog.naver.com/forchcollect <br>
+<span style="font-size:60%"> 📧email : forchcollect@naver.com </span> <br>
+<span style="font-size:60%"> 💻blog : https://blog.naver.com/forchcollect </span> <br>
 </p>
 
 <hr>
@@ -43,5 +43,6 @@
 </p>
 
 <h5 align="center">🖊 to study soon</h5>
-<p align="center" style="font-size:60%">node.js project, JPA project, MSA, SQLP certificate ...
+<p align="center">
+<span style="font-size:60%">node.js project, JPA project, MSA, SQLP certificate ...</span>
 </p>
