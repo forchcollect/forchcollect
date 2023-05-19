@@ -79,4 +79,4 @@
     현재 공부와 함께 구직활동을 하고 있다.
 </p>
 
-<h3 align="center">📹  other project soon...</h3>
+<h5 align="center">☀ other project soon...</h5>
