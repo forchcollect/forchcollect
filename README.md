@@ -36,7 +36,6 @@
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 </p>
 
-<hr>
 <h5 align="center">📚 Studying now</h5>
 <p align="center">
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
