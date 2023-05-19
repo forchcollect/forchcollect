@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=633122&height=140&text=forchcollect&fontSize=50&fontAlign=28&fontColor=FFFFFF&desc=개발은%20초콜릿처럼%20달달하게&descAlign=61&descAlignY=53)
 
 <p align="center">
-🙋‍♀️ 3년 차 자바 풀스택 개발자 입니다.
-백엔드 및 DB sql에 관심이 많습니다!
-현재 node.js, JPA, 디자인 패턴 등을 공부하고 있습니다.
+🙋‍♀️ 3년 차 자바 풀스택 개발자 입니다.<br>
+백엔드 및 DB sql에 관심이 많습니다! <br>
+현재 node.js, JPA, 디자인 패턴 등을 공부하고 있습니다.<br>
 <br><br>
-📧email : forchcollect@naver.com
-💻blog : https://blog.naver.com/forchcollect
+📧email : forchcollect@naver.com <br>
+💻blog : https://blog.naver.com/forchcollect <br>
 </p>
 
 <hr>
@@ -33,15 +33,13 @@
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 </p>
 
-<hr>
-
-<h5 align="center">📚 Studying now 📚</h5>
+<h5 align="center">📚 Studying now</h5>
 <p align="center">
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/Design%20Pattern-violet?style=flat-square&logoColor=white"/>
 </p>
 
-<h5 align="center">🖊 to study soon 🖊</h5>
+<h5 align="center">🖊 to study soon</h5>
 <p align="center">
 node.js project, JPA project, MSA, SQLP certificate ...
 </p>
