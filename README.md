@@ -39,6 +39,7 @@
 <h5 align="center">📚 Studying now</h5>
 <p align="center">
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Hibernate(JPA)-59666C?style=flat-square&logo=Hibernate&logoColor=white"/>
     <img src="https://img.shields.io/badge/Design%20Pattern-violet?style=flat-square&logoColor=white"/>
 </p>
 
@@ -73,13 +74,13 @@
 </p>
 
 <br>
-<h5 align="center">💼 2020.09 ~ 2022.12 첫 회사</h5>
-<h5 align="center">💪 2023.01 ~ now 공백기</h5>
+<h5 align="center">💼  2020.09 ~ 2022.12 첫 회사</h5>
+<h5 align="center">💪  2023.01 ~ now 공백기</h5>
 <p align="center">
-    퇴사 후 재충전 시간을 가졌다.<br><br>
+    퇴사 후 재충전 시간을 가졌습니다.<br><br>
     그동안 새로운 기술이나 개인 프로젝트 없이 <br>
     나태했던 스스로를 반성하며<br>
-    현재 공부와 함께 구직활동을 하고 있다.
+    현재 공부와 함께 구직활동을 하고 있습니다.
 </p>
 
 <h5 align="center">☀ other project soon...</h5>
