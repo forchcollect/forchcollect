@@ -3,7 +3,7 @@
 <p align="center">
 🙋‍♀️ 3년 차 자바 풀스택 개발자 입니다.<br>
 백엔드 및 DB sql에 관심이 많습니다! <br>
-현재 node.js, JPA, 디자인 패턴 등을 공부하고 있습니다.<br>
+node.js, JPA, 디자인 패턴 등을 공부하고 있습니다.<br>
 <br>
 📧email : forchcollect@naver.com <br>
 💻blog : https://blog.naver.com/forchcollect <br>
@@ -80,7 +80,7 @@
     퇴사 후 재충전 시간을 가졌습니다.<br><br>
     그동안 새로운 기술이나 개인 프로젝트 없이 <br>
     나태했던 스스로를 반성하며<br>
-    현재 공부와 함께 구직활동을 하고 있습니다.
+    공부와 함께 구직활동을 하고 있습니다.
 </p>
 
 <h5 align="center">☀ other project soon...</h5>
