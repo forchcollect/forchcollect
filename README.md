@@ -48,8 +48,9 @@
 </p>
 
 <hr>
-<h3 align="center">timeline</h3>
+<h3 align="center">⏰ timeline ⏰ </h3>
 <h5 align="center">📹  2020.03 ~ 2020.08 국비학원 프로젝트</h5>
+<h5 align="center">project 'musicStreaming'</h5>
 <p align="center">
     <img src="https://github.com/forchcollect/musicStreaming/assets/59334620/1b57eb78-461e-4881-9f90-1be6a4410b14"
       width="300" height="200"/>
@@ -59,6 +60,9 @@
       width="300" height="200"/>
     <img src="https://github.com/forchcollect/musicStreaming/assets/59334620/e1055982-93ad-4dad-87e7-722c52684ac2"
       width="300" height="200"/>
+</p>
+<h5 align="center">project 'ICE'</h5>
+<p>
     <img src="https://github.com/forchcollect/musicStreaming/assets/59334620/e133798a-f7f1-4f01-b962-a1c64e516ce2"
       width="300" height="200"/>
     <img src="https://github.com/forchcollect/musicStreaming/assets/59334620/76a91a31-503a-4acf-b47d-f7145d939bc8"
