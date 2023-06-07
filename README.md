@@ -74,9 +74,7 @@ node.js, JPA, 디자인 패턴 등을 공부하고 있습니다.<br>
 <h5 align="center">💪  2023.01 ~ now 공백기</h5>
 <p align="center">
     퇴사 후 재충전 시간을 가졌습니다.<br><br>
-    그동안 새로운 기술이나 개인 프로젝트 없이 <br>
-    나태했던 스스로를 반성하며<br>
-    공부와 함께 구직활동을 하고 있습니다.
+    현재 공부와 함께 구직활동을 하고 있습니다.
 </p>
 
 <h5 align="center">☀ other project soon...</h5>
