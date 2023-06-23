@@ -75,7 +75,7 @@ node.js, JPA, 디자인 패턴 등을 공부하고 있습니다.<br>
 <p align="center">
     퇴사 후 재충전 시간을 가졌습니다.<br><br>
     현재 구직활동과 함께 '모읽나' 개인 프로젝트를 진행하고 있습니다.
-    
+    <br>
     시작한 지 얼마 안 됐지만, 매일 진행하려고 합니다 :)
     - '모읽나' 프로젝트 : https://github.com/forchcollect/WannaRead
 </p>
