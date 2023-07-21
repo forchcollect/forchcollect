@@ -74,7 +74,8 @@ node.js, JPA, 디자인 패턴 등을 공부하고 있습니다.<br>
 <h5 align="center">💪  2023.01 ~ now 공백기</h5>
 <p align="center">
     퇴사 후 재충전 시간을 가졌습니다.<br><br>
-    현재 구직활동과 함께 스프링 핵심 기술 리뷰 및 JPA에 대해 공부하고 있습니다.
+    현재 구직활동과 함께<br>
+    스프링 핵심 기술 리뷰 및 JPA에 대해 공부하고 있습니다.
 </p>
 
 <h5 align="center">☀ other project soon...</h5>
