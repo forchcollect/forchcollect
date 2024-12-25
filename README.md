@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=633122&height=140&text=forchcollect&fontSize=50&fontAlign=28&fontColor=FFFFFF&desc=개발은%20초콜릿처럼%20달달하게&descAlign=61&descAlignY=53)
 
 <p align="center">
-🙋‍♀️ 3년 차 자바 풀스택 개발자 입니다.<br>
-백엔드 및 DB sql에 관심이 많습니다! <br>
-node.js, JPA, 디자인 패턴 등을 공부하고 있습니다.<br>
+🙋‍♀️ 안녕하세요, 4년 경력의 웹 개발자 입니다.<br>
+java 뿐만 아니라 node.js, React.js, Next.js 등을 다룰 수 있습니다. <br>
+UI/UX platform 및 데이터베이스 기술에 관심이 많습니다! <br>
 <br>
 📧email : forchcollect@naver.com <br>
 💻blog : https://blog.naver.com/forchcollect <br>
@@ -32,12 +32,6 @@ node.js, JPA, 디자인 패턴 등을 공부하고 있습니다.<br>
 <h5 align="center">💡 used at least once</h5>
 <p align="center">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-</p>
-
-<h5 align="center">📚 Studying now</h5>
-<p align="center">
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/Hibernate(JPA)-59666C?style=flat-square&logo=Hibernate&logoColor=white"/>
     <img src="https://img.shields.io/badge/Design%20Pattern-violet?style=flat-square&logoColor=white"/>
@@ -45,37 +39,7 @@ node.js, JPA, 디자인 패턴 등을 공부하고 있습니다.<br>
 
 <hr>
 <h3 align="center">⏰ timeline ⏰ </h3>
-<h5 align="center">📹  2020.03 ~ 2020.08 국비학원 프로젝트</h5>
-<h5 align="center">(1) project 'musicStreaming'</h5>
-<p align="center">
-    <img src="https://github.com/forchcollect/musicStreaming/assets/59334620/1b57eb78-461e-4881-9f90-1be6a4410b14"
-      width="300" height="200"/>
-    <img src="https://github.com/forchcollect/musicStreaming/assets/59334620/3f5c03e3-46ce-46fb-ad9e-4741e51414d0"
-      width="300" height="200"/>
-    <img src="https://github.com/forchcollect/musicStreaming/assets/59334620/7edfa9c4-2d2a-4c23-8258-e6de6a784b49"
-      width="300" height="200"/>
-    <img src="https://github.com/forchcollect/musicStreaming/assets/59334620/e1055982-93ad-4dad-87e7-722c52684ac2"
-      width="300" height="200"/>
-</p>
-<h5 align="center">(2) project 'ICE'</h5>
-<p align="center">
-    <img src="https://github.com/forchcollect/musicStreaming/assets/59334620/e133798a-f7f1-4f01-b962-a1c64e516ce2"
-      width="300" height="200"/>
-    <img src="https://github.com/forchcollect/musicStreaming/assets/59334620/76a91a31-503a-4acf-b47d-f7145d939bc8"
-      width="300" height="200"/>
-    <img src="https://github.com/forchcollect/musicStreaming/assets/59334620/4643b104-3910-4c32-9ad9-6af58d2d62df"
-      width="300" height="200"/>
-    <img src="https://github.com/forchcollect/musicStreaming/assets/59334620/38235713-66b1-4b77-ba65-cd6ff0ff9480"
-      width="300" height="200"/>
-</p>
-
-<br>
-<h5 align="center">💼  2020.09 ~ 2022.12 첫 회사</h5>
-<h5 align="center">💪  2023.01 ~ now 공백기</h5>
-<p align="center">
-    퇴사 후 재충전 시간을 가졌습니다.<br><br>
-    현재 구직활동과 함께<br>
-    스프링 핵심 기술 리뷰 및 JPA에 대해 공부하고 있습니다.
-</p>
-
-<h5 align="center">☀ other project soon...</h5>
+<h5 align="center">📹  2020.03 ~ 2020.08 국비학원 </h5>
+<h5 align="center">💼  2020.09 ~ 2022.12 첫번째 회사</h5>
+<h5 align="center">💪  2022.12 ~ 2023.08 프리랜서</h5>
+<h5 align="center">💪  2023.08 ~ now 두번째 회사</h5>
